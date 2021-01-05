@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949769212684",
+    "project_id": "weight-ogram",
+    "storage_bucket": "weight-ogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949769212684:android:067e2c34380d6a829a2f29",
+        "android_client_info": {
+          "package_name": "com.example.weight_o_gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949769212684-k1b6t04i35eaqloiubnqitf0raulv6nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weight_o_gram",
+            "certificate_hash": "ae6bf987f366f232cb36b4cfcd45d75387c1cf42"
+          }
+        },
+        {
+          "client_id": "949769212684-iceklacernkrk53l2or1t3ojtopisskb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDN1dxNTX-Xldw4Hn0mCRmnJBU4s_w5iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949769212684-iceklacernkrk53l2or1t3ojtopisskb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
